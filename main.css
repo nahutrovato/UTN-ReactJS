@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+}
+.boxes{
+    width: 200px;
+    height: 200px;
+}
+#box1{
+    background-color: #FF0000;
+}
+#box2{
+    background-color: #FF0033;
+}
+#box3{
+    background-color: #FF0066;
+}
+#box4{
+    background-color:#FF0099;
+}
+#box5{
+    background-color:#FF00CC;
+}
+#box6{
+    background-color:#FF00CC;
+}
+#box7{
+    background-color:#FF00FF;
+}
+footer{
+    background-color: cadetblue;
+}
+.piedepagina{
+    height: 50px;
+    text-align: center;
+}
